@@ -1,0 +1,1 @@
+web gunicorn url hsortner.wsgi:application --log-file -
